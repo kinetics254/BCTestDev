@@ -9,7 +9,7 @@
             "serverInstance": "CronusBC",
             "authentication": "Windows",
             "port": 9149,
-            "startupObjectId": 50100,
+            "startupObjectId": 501002,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,

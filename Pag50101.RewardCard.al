@@ -34,6 +34,8 @@ page 50101 "Reward Card"
                 {
                     ApplicationArea = All;
                 }
+
+
             }
         }
     }
