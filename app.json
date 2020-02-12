@@ -10,8 +10,7 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [
-    {
+  "dependencies": [{
       "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
       "publisher": "Microsoft",
       "name": "System Application",
@@ -26,13 +25,11 @@
   ],
   "screenshots": [],
   "platform": "15.0.0.0",
-  "idRanges": [
-    {
-      "from": 50100,
-      "to": 50149
-    }
-  ],
-  "contextSensitiveHelpUrl": "https://CronusBootStrap.com/help/",
+  "idRanges": [{
+    "from": 50100,
+    "to": 50149
+  }],
+  "contextSensitiveHelpUrl": "http://raptor:8080/CronusBC/documentation",
   "showMyCode": true,
   "runtime": "4.0"
 }
