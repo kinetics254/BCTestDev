@@ -1,4 +1,4 @@
-pageextension 50104 "Customer Card Exr" extends "Customer Card"
+pageextension 50104 "Customer Card Ext" extends "Customer Card"
 {
     layout
     {
@@ -8,6 +8,7 @@ pageextension 50104 "Customer Card Exr" extends "Customer Card"
             {
                 ApplicationArea = All;
                 Lookup = true;
+                ToolTip = 'Specifies the level of reward that the customer has at this point.';
             }
         }
     }

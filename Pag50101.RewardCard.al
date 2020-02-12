@@ -6,8 +6,6 @@ page 50101 "Reward Card"
     // The page will be part of the "Tasks" group of search results.
     UsageCategory = Tasks;
 
-    ContextSensitiveHelpPage = 'sales-rewards';
-
     // The source table shows data from the "Reward" table.
     SourceTable = Reward;
 
@@ -25,7 +23,6 @@ page 50101 "Reward Card"
                     // Setting the property to All means that the control 
                     // will always appear in the user interface.
                     ApplicationArea = All;
-                    ToolTip = 'Specifies the level of reward that the customer has at this point.';
                 }
 
                 field(Description; Description)
